@@ -194,7 +194,7 @@ This project is intended for educational and demonstration purposes. Model predi
 
 BSAI Student
 
-GitHub: `https://github.com/YOUR-USERNAME`
+GitHub: `https://github.com/afaqoo7`
 
 ## ⭐ Future Improvements
 
